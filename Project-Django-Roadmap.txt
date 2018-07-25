@@ -1,0 +1,17 @@
+1.create a website
+	Allow users to register them to site
+	store them to database 
+	admin should view all the users
+	If admin removes users then should throw error
+
+2.Add 4 or 5 screens with html views with javascript and Ajax
+
+3.Implement some e-commerce or some other sites based on Idea
+
+4.Use rest api to implement the logic and apply other logics for django
+
+5.Use advanced python packages to store
+
+6.Debugging the apps 
+
+7. Learn to deploy code into servers include git in this.
